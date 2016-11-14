@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="20608716996050"
+    token="5878242132074430453" >
+
+    <task
+        name="javac"
+        duration="10616" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="2009" />
+    <task
+        name="verifier"
+        duration="933" />
+
+    <artifact
+        location="C:\Users\User\Desktop\New folder\SmartNotePad-2016-07-24\SmartNotePad\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="20608716996050" >
+        <artifact
+            location="C:\Users\User\Desktop\New folder\SmartNotePad-2016-07-24\SmartNotePad\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

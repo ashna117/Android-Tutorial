@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\User\Desktop\New folder\SmartNotePad-2016-07-24\SmartNotePad\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\User\Desktop\New folder\SmartNotePad-2016-07-24\SmartNotePad\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_ee2ad4dfc72d2f841f83fec4bac87f05663bf6ad\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\Desktop\New folder\SmartNotePad-2016-07-24\SmartNotePad\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\User\Desktop\New folder\SmartNotePad-2016-07-24\SmartNotePad\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_75afb3950d7be4cf6423449514ebfe0ba2c9bc2d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\Desktop\New folder\SmartNotePad-2016-07-24\SmartNotePad\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\User\Desktop\New folder\SmartNotePad-2016-07-24\SmartNotePad\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_2c44f04294628aadd54458378dc9a1e9b2eb7846\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\Desktop\New folder\SmartNotePad-2016-07-24\SmartNotePad\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\User\Desktop\New folder\SmartNotePad-2016-07-24\SmartNotePad\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_aae576d6f5f4ba248d5a5ce1c46f14bcf15defca\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\Desktop\New folder\SmartNotePad-2016-07-24\SmartNotePad\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\User\Desktop\New folder\SmartNotePad-2016-07-24\SmartNotePad\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_88f96cf251bd570be719d83a9dc73ea249680b4f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\User\Desktop\New folder\SmartNotePad-2016-07-24\SmartNotePad\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_c381e096a4a3279073b5cf49014e9da1dd1163f3\classes.dex" />
+    </item>
+    <item
+        jar="F:\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\User\Desktop\New folder\SmartNotePad-2016-07-24\SmartNotePad\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_1fab82d13be3aeabb03611844062699ad025852f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\Desktop\New folder\SmartNotePad-2016-07-24\SmartNotePad\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="14b888c8fc176870fa20f17ded799af772bae13e">
+        <dex dex="C:\Users\User\Desktop\New folder\SmartNotePad-2016-07-24\SmartNotePad\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f5eb33c4a30dd59403ed21e1ef26b44f889a01db\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\Desktop\New folder\SmartNotePad-2016-07-24\SmartNotePad\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="C:\Users\User\Desktop\New folder\SmartNotePad-2016-07-24\SmartNotePad\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.0.1_ab40575e9f023aa8f18f7651e31e0a21fa7e4a93\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\Desktop\New folder\SmartNotePad-2016-07-24\SmartNotePad\app\build\intermediates\exploded-aar\com.rengwuxian.materialedittext\library\2.1.4\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="288913b440a3c61c30aa171095453a605432277a">
+        <dex dex="C:\Users\User\Desktop\New folder\SmartNotePad-2016-07-24\SmartNotePad\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.rengwuxian.materialedittext-library-2.1.4_028e853e87bc9aa60b0cb83aac7f35c16cf2e4ea\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\Desktop\New folder\SmartNotePad-2016-07-24\SmartNotePad\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\User\Desktop\New folder\SmartNotePad-2016-07-24\SmartNotePad\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_c3aa70511124c637ae28850dc77de278765c6063\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\Desktop\New folder\SmartNotePad-2016-07-24\SmartNotePad\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\User\Desktop\New folder\SmartNotePad-2016-07-24\SmartNotePad\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_39587917db59ca541b165c0e88ad4fc2c3b145c0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\Desktop\New folder\SmartNotePad-2016-07-24\SmartNotePad\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4fda61b722778dd9bed0bf9f02f37ce2136eff43">
+        <dex dex="C:\Users\User\Desktop\New folder\SmartNotePad-2016-07-24\SmartNotePad\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3fdd3e92f152e078bb09f9ceb1c4b21f208208f2\classes.dex" />
+    </item>
+
+</items>

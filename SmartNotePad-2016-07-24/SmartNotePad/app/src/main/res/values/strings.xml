@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Smart NotePad</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <!-- Names -->
+    <string-array name="names">
+        <item>Pavan D</item>
+        <item>DayaSagar</item>
+        <item>Pavan B</item>
+        <item>Maddy</item>
+        <item>Pavan H</item>
+        <item>Nikhil</item>
+    </string-array>
+
+    <!-- Status -->
+    <string-array name="email">
+        <item>hdpavan@xyz.com</item>
+        <item>dj@xyz.com</item>
+        <item>pavanb@xyz.com</item>
+        <item>maddy@xyz.com</item>
+        <item>pavanh@xyz.com</item>
+        <item>nikhil@xyz.com</item>
+    </string-array>
+
+</resources>

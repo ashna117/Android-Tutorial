@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="40dp"
+    android:weightSum="1">
+
+
+    <EditText
+        android:id="@+id/mytitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Write Title"
+        android:textSize="20sp"
+        android:textColor="#00838f"
+        android:layout_margin="8dp"/>
+    <EditText
+        android:id="@+id/mydetails"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Details goes here"
+        android:textSize="17sp"
+        android:lines="8"
+        android:textColor="#00838f"
+        android:layout_margin="8dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Set Priority"
+        android:id="@+id/setprioritytv"
+        android:layout_marginLeft="17sp"
+        android:layout_weight="0.85" />
+
+    <RadioGroup
+        android:id="@+id/myradiogroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp">
+
+        <RadioButton
+            android:id="@+id/rblow"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Low"
+            android:textStyle="bold"
+            android:textColor="#4caf50"
+            android:textSize="20sp"/>
+
+        <RadioButton
+            android:id="@+id/rbmedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Medium"
+            android:textStyle="bold"
+            android:textColor="#f9a825"
+            android:textSize="20sp"/>
+
+
+        <RadioButton
+            android:id="@+id/rbhigh"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="High"
+            android:textStyle="bold"
+            android:textColor="#f44336"
+            android:textSize="20sp"/>
+
+    </RadioGroup>
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/donecb"/>
+
+
+
+
+</LinearLayout>
